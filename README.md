@@ -1,7 +1,7 @@
 # Personal Library — Ứng dụng Web quản lý tủ sách cá nhân
 
 > **Project 1 | Dự án học tập Full-stack**  
-> **Trạng thái:** Đang xây dựng — Giai đoạn 1: giao diện HTML/CSS.
+> **Trạng thái:** Đang xây dựng
 
 ## 1. Giới thiệu
 
