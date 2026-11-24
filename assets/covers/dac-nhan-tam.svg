@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="560" viewBox="0 0 420 560" role="img" aria-label="Bìa minh họa sách ĐẮC NHÂN TÂM">
+<defs><pattern id="grain" width="42" height="42" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#fff1de" opacity=".14"/></pattern></defs>
+<rect width="420" height="560" rx="14" fill="#803d3d"/><rect x="15" y="15" width="390" height="530" rx="8" fill="none" stroke="#fff1de" stroke-width="2" opacity=".23"/><rect width="420" height="560" fill="url(#grain)"/>
+<text x="42" y="72" fill="#fff1de" opacity=".78" font-size="13" font-family="Arial,sans-serif" letter-spacing="5">PERSONAL LIBRARY</text>
+<path d="M42 96 H378" stroke="#fff1de" stroke-width="1" opacity=".55"/>
+<text x="42" y="157" fill="#fff1de" font-size="43" font-weight="700" font-family="Arial,sans-serif" letter-spacing="-1">ĐẮC</text>
+<text x="42" y="205" fill="#fff1de" font-size="39" font-weight="700" font-family="Arial,sans-serif" letter-spacing="-1">NHÂN TÂM</text>
+<path d="M210 445 C160 399 90 357 90 311 C90 267 147 248 210 308 C273 248 330 267 330 311 C330 357 260 399 210 445Z" fill="#e8b986" opacity=".8"/><path d="M130 341 Q210 385 290 341" stroke="#fff1de" fill="none" stroke-width="5" opacity=".7"/>
+<path d="M42 489 H378" stroke="#fff1de" stroke-width="1" opacity=".55"/>
+<text x="42" y="518" fill="#fff1de" font-size="16" font-family="Arial,sans-serif" letter-spacing="2">DALE CARNEGIE</text>
+</svg>

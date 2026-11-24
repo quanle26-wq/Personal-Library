@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="560" viewBox="0 0 420 560" role="img" aria-label="Bìa minh họa sách SAPIENS LƯỢC SỬ LOÀI NGƯỜI">
+<defs><pattern id="grain" width="42" height="42" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#fff0e1" opacity=".14"/></pattern></defs>
+<rect width="420" height="560" rx="14" fill="#503c49"/><rect x="15" y="15" width="390" height="530" rx="8" fill="none" stroke="#fff0e1" stroke-width="2" opacity=".23"/><rect width="420" height="560" fill="url(#grain)"/>
+<text x="42" y="72" fill="#fff0e1" opacity=".78" font-size="13" font-family="Arial,sans-serif" letter-spacing="5">PERSONAL LIBRARY</text>
+<path d="M42 96 H378" stroke="#fff0e1" stroke-width="1" opacity=".55"/>
+<text x="42" y="157" fill="#fff0e1" font-size="43" font-weight="700" font-family="Arial,sans-serif" letter-spacing="-1">SAPIENS</text>
+<text x="42" y="205" fill="#fff0e1" font-size="28" font-weight="700" font-family="Arial,sans-serif" letter-spacing="-1">LƯỢC SỬ LOÀI NGƯỜI</text>
+<circle cx="210" cy="363" r="120" stroke="#e3a696" stroke-width="2" fill="none"/><ellipse cx="210" cy="363" rx="48" ry="118" stroke="#e3a696" stroke-width="2" fill="none"/><path d="M91 363 H329 M108 310 H312 M108 417 H312" stroke="#e3a696" stroke-width="2"/><circle cx="210" cy="363" r="16" fill="#e3a696"/>
+<path d="M42 489 H378" stroke="#fff0e1" stroke-width="1" opacity=".55"/>
+<text x="42" y="518" fill="#fff0e1" font-size="16" font-family="Arial,sans-serif" letter-spacing="2">YUVAL NOAH HARARI</text>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="560" viewBox="0 0 420 560" role="img" aria-label="Bìa minh họa sách LƯỢC SỬ THỜI GIAN">
+<defs><pattern id="grain" width="42" height="42" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#f1d7ac" opacity=".14"/></pattern></defs>
+<rect width="420" height="560" rx="14" fill="#242742"/><rect x="15" y="15" width="390" height="530" rx="8" fill="none" stroke="#f1d7ac" stroke-width="2" opacity=".23"/><rect width="420" height="560" fill="url(#grain)"/>
+<text x="42" y="72" fill="#f1d7ac" opacity=".78" font-size="13" font-family="Arial,sans-serif" letter-spacing="5">PERSONAL LIBRARY</text>
+<path d="M42 96 H378" stroke="#f1d7ac" stroke-width="1" opacity=".55"/>
+<text x="42" y="157" fill="#f1d7ac" font-size="43" font-weight="700" font-family="Arial,sans-serif" letter-spacing="-1">LƯỢC SỬ</text>
+<text x="42" y="205" fill="#f1d7ac" font-size="39" font-weight="700" font-family="Arial,sans-serif" letter-spacing="-1">THỜI GIAN</text>
+<circle cx="210" cy="366" r="96" fill="none" stroke="#be90e7" stroke-width="3" opacity=".8"/><ellipse cx="210" cy="366" rx="147" ry="48" transform="rotate(-23 210 366)" fill="none" stroke="#be90e7" stroke-width="9" opacity=".83"/><circle cx="210" cy="366" r="37" fill="#be90e7"/><circle cx="328" cy="291" r="7" fill="#f1d7ac"/><circle cx="98" cy="291" r="4" fill="#f1d7ac"/>
+<path d="M42 489 H378" stroke="#f1d7ac" stroke-width="1" opacity=".55"/>
+<text x="42" y="518" fill="#f1d7ac" font-size="16" font-family="Arial,sans-serif" letter-spacing="2">STEPHEN HAWKING</text>
+</svg>

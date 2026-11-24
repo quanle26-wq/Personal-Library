@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="560" viewBox="0 0 420 560" role="img" aria-label="Bìa minh họa sách CLEAN CODE">
+<defs><pattern id="grain" width="42" height="42" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#dff9ff" opacity=".14"/></pattern></defs>
+<rect width="420" height="560" rx="14" fill="#172b4d"/><rect x="15" y="15" width="390" height="530" rx="8" fill="none" stroke="#dff9ff" stroke-width="2" opacity=".23"/><rect width="420" height="560" fill="url(#grain)"/>
+<text x="42" y="72" fill="#dff9ff" opacity=".78" font-size="13" font-family="Arial,sans-serif" letter-spacing="5">PERSONAL LIBRARY</text>
+<path d="M42 96 H378" stroke="#dff9ff" stroke-width="1" opacity=".55"/>
+<text x="42" y="157" fill="#dff9ff" font-size="43" font-weight="700" font-family="Arial,sans-serif" letter-spacing="-1">CLEAN</text>
+<text x="42" y="205" fill="#dff9ff" font-size="39" font-weight="700" font-family="Arial,sans-serif" letter-spacing="-1">CODE</text>
+<rect x="74" y="278" width="272" height="162" rx="18" fill="#4ba6e7" opacity=".12" stroke="#4ba6e7"/><path d="M160 326 L120 357 L160 389 M258 326 L298 357 L258 389 M232 318 L188 399" fill="none" stroke="#4ba6e7" stroke-width="13" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M42 489 H378" stroke="#dff9ff" stroke-width="1" opacity=".55"/>
+<text x="42" y="518" fill="#dff9ff" font-size="16" font-family="Arial,sans-serif" letter-spacing="2">ROBERT C. MARTIN</text>
+</svg>

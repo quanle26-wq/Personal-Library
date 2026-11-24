@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="560" viewBox="0 0 420 560" role="img" aria-label="Bìa minh họa sách TUỔI TRẺ ĐÁNG GIÁ BAO NHIÊU?">
+<defs><pattern id="grain" width="42" height="42" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#f5f4e8" opacity=".14"/></pattern></defs>
+<rect width="420" height="560" rx="14" fill="#305f71"/><rect x="15" y="15" width="390" height="530" rx="8" fill="none" stroke="#f5f4e8" stroke-width="2" opacity=".23"/><rect width="420" height="560" fill="url(#grain)"/>
+<text x="42" y="72" fill="#f5f4e8" opacity=".78" font-size="13" font-family="Arial,sans-serif" letter-spacing="5">PERSONAL LIBRARY</text>
+<path d="M42 96 H378" stroke="#f5f4e8" stroke-width="1" opacity=".55"/>
+<text x="42" y="157" fill="#f5f4e8" font-size="43" font-weight="700" font-family="Arial,sans-serif" letter-spacing="-1">TUỔI TRẺ</text>
+<text x="42" y="205" fill="#f5f4e8" font-size="28" font-weight="700" font-family="Arial,sans-serif" letter-spacing="-1">ĐÁNG GIÁ BAO NHIÊU?</text>
+<path d="M75 445 H161 V396 H247 V339 H345 V275" fill="none" stroke="#6ccac5" stroke-width="22" stroke-linejoin="round"/><circle cx="345" cy="275" r="21" fill="#f5f4e8"/><path d="M83 303 Q158 255 212 305" fill="none" stroke="#f5f4e8" stroke-width="4" opacity=".55"/>
+<path d="M42 489 H378" stroke="#f5f4e8" stroke-width="1" opacity=".55"/>
+<text x="42" y="518" fill="#f5f4e8" font-size="16" font-family="Arial,sans-serif" letter-spacing="2">ROSIE NGUYỄN</text>
+</svg>
